@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat.CSharp", "Beat.CSharp.csproj", "{431F5799-2037-5D7E-DB34-56880EF3C355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat.CSharp.Editor", "Beat.CSharp.Editor.csproj", "{B705F79F-1721-DA0B-3319-ED44B3CC4FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431F5799-2037-5D7E-DB34-56880EF3C355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431F5799-2037-5D7E-DB34-56880EF3C355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431F5799-2037-5D7E-DB34-56880EF3C355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431F5799-2037-5D7E-DB34-56880EF3C355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B705F79F-1721-DA0B-3319-ED44B3CC4FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B705F79F-1721-DA0B-3319-ED44B3CC4FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B705F79F-1721-DA0B-3319-ED44B3CC4FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B705F79F-1721-DA0B-3319-ED44B3CC4FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
